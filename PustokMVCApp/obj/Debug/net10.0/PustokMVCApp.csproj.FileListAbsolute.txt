@@ -1,0 +1,8 @@
+/Users/sevinc/Desktop/PustokMVCApp/PustokMVCApp/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/sevinc/Desktop/PustokMVCApp/PustokMVCApp/obj/Debug/net10.0/PustokMVCApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sevinc/Desktop/PustokMVCApp/PustokMVCApp/obj/Debug/net10.0/PustokMVCApp.AssemblyInfoInputs.cache
+/Users/sevinc/Desktop/PustokMVCApp/PustokMVCApp/obj/Debug/net10.0/PustokMVCApp.AssemblyInfo.cs
+/Users/sevinc/Desktop/PustokMVCApp/PustokMVCApp/obj/Debug/net10.0/PustokMVCApp.csproj.CoreCompileInputs.cache
+/Users/sevinc/Desktop/PustokMVCApp/PustokMVCApp/obj/Debug/net10.0/PustokMVCApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/sevinc/Desktop/PustokMVCApp/PustokMVCApp/obj/Debug/net10.0/PustokMVCApp.RazorAssemblyInfo.cache
+/Users/sevinc/Desktop/PustokMVCApp/PustokMVCApp/obj/Debug/net10.0/PustokMVCApp.RazorAssemblyInfo.cs
