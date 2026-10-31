@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using PustokMVCApp.Data;
 using PustokMVCApp.Models;
 using PustokMVCApp.ViewModels;
 using System.Diagnostics;

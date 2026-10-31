@@ -1,6 +1,6 @@
-using PustokMvcApp.Models.Common;
+using PustokMVCApp.Models.Common;
 
-namespace PustokMvcApp.Models
+namespace PustokMVCApp.Models
 {
     public class BookImage : BaseEntity
     {

@@ -6,3 +6,6 @@
 /Users/sevinc/Desktop/PustokMVCApp/PustokMVCApp/obj/Debug/net10.0/PustokMVCApp.MvcApplicationPartsAssemblyInfo.cache
 /Users/sevinc/Desktop/PustokMVCApp/PustokMVCApp/obj/Debug/net10.0/PustokMVCApp.RazorAssemblyInfo.cache
 /Users/sevinc/Desktop/PustokMVCApp/PustokMVCApp/obj/Debug/net10.0/PustokMVCApp.RazorAssemblyInfo.cs
+/Users/sevinc/Desktop/PustokMVCApp/PustokMVCApp/obj/Debug/net10.0/PustokMVCApp.sourcelink.json
+/Users/sevinc/Desktop/PustokMVCApp/PustokMVCApp/obj/Debug/net10.0/PustokMVCApp.csproj.AssemblyReference.cache
+/Users/sevinc/Desktop/PustokMVCApp/PustokMVCApp/obj/Debug/net10.0/EFCoreSqlServerNetTopologySuite.cs

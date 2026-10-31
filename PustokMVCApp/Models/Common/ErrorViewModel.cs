@@ -1,4 +1,4 @@
-namespace PustokMvcApp.Models
+namespace PustokMVCApp.Models
 {
     public class ErrorViewModel
     {
